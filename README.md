@@ -88,11 +88,6 @@ This is a simple website building project. In the meanwhile it will serve as a "
 
 <!-- ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g -->
-  ```
 
 
 <!-- CONTACT -->
@@ -109,9 +104,8 @@ Project Link: [gpcwaiyakiway](https://gpcwaiyakiway.org)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-<!-- Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off! -->
 [SimpleDev](https://www.youtube.com/c/SuperSimpleDev)
-<!-- * [Choose an Open Source License](https://choosealicense.com) -->
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
