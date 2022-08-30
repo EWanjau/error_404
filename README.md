@@ -68,8 +68,8 @@ The project stands in to inform visitors about the site which is under construct
 
 This section should list any major frameworks used to build this project.
 
-* [HTML5][index.html][html-url]
-* [CSS][styles.css]][CSS-url]
+* [HTML5]
+* [CSS]
 <!-- * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
