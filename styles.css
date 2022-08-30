@@ -1,3 +1,10 @@
 img{
-    max-width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 1000px;
+    padding-right: 0px;
+    margin-right: 0px;
+    padding-left: 150px;
+    padding-top: 20px;
 }
